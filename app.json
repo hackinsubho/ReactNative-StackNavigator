@@ -1,5 +1,11 @@
 {
   "expo": {
-    "sdkVersion": "25.0.0"
+    "sdkVersion": "25.0.0",
+    "author" : "hackincyrus",
+    "version": "1.0.0",
+    "packagerOpts":{ "assetExts": ["ttf", "mp4"]},
+    "icon": "./assets/icons/app-icon.png",
+    "ios":{ "buildNumber": "1.0.0" },
+    "android":{ "package": "com.hackinsubho.stacknavigator", "permissions": []}
   }
 }
